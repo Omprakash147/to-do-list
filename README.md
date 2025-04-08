@@ -1,34 +1,35 @@
-Image Slider
-============
+To-Do List App
+==============
 
-A simple and responsive Image Slider built using HTML, CSS, and JavaScript. This project demonstrates how to create an interactive image carousel that automatically and manually cycles through images.
+A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This project allows users to manage daily tasks efficiently with options to add, mark complete, and delete tasks.
 
 Features
 --------
 
-- Auto-sliding images
-- Next and Previous navigation buttons
-- Dot indicators for current slide
-- Responsive layout for all devices
-- Smooth transition effects
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Fully responsive design
+- Clean and minimal user interface
 
 Technologies Used
 -----------------
 
-- HTML – for the structure
-- CSS – for styling and layout
-- JavaScript – for functionality and interactivity
+- HTML – to structure the content
+- CSS – to style the app and make it responsive
+- JavaScript – to handle task management functionality
 
 How to Use
 ----------
 
 1. Download or clone the repository.
 2. Open the 'index.html' file in any web browser.
+3. Start adding your tasks in the input box and manage them with ease.
 
 Folder Structure
 ----------------
 
-image-slider/
+todo-list/
 ├── index.html
 ├── style.css
 └── script.js
@@ -36,8 +37,8 @@ image-slider/
 Customization
 -------------
 
-- You can replace the images in the HTML with your own images.
-- Adjust transition speed or behavior by modifying the CSS and JavaScript files.
+- You can customize the look and feel by editing the CSS.
+- Extend the functionality to include localStorage, task categories, or due dates via JavaScript.
 
 Author
 ------
